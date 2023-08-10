@@ -1,0 +1,4 @@
+make[2]: *** Deleting file 'vrpn_listener'
+make[2]: *** [CMakeFiles/vrpn_listener.dir/build.make:140: vrpn_listener] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/vrpn_listener.dir/all] Interrupt
+make: *** [Makefile:141: all] Interrupt

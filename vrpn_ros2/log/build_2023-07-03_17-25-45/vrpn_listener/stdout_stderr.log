@@ -1,0 +1,24 @@
+[ 50%] [32m[1mLinking CXX executable vrpn_listener[0m
+[100%] Built target vrpn_listener
+-- Install configuration: ""
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener//launch
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener//launch/sync_entity_state.launch
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener//config
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener//config/params.yaml
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/lib/vrpn_listener/vrpn_listener
+-- Set runtime path of "/home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/lib/vrpn_listener/vrpn_listener" to ""
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/ament_index/resource_index/package_run_dependencies/vrpn_listener
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/ament_index/resource_index/parent_prefix_path/vrpn_listener
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/environment/ament_prefix_path.sh
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/environment/ament_prefix_path.dsv
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/environment/path.sh
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/environment/path.dsv
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/local_setup.bash
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/local_setup.sh
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/local_setup.zsh
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/local_setup.dsv
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/package.dsv
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/ament_index/resource_index/packages/vrpn_listener
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/cmake/vrpn_listenerConfig.cmake
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/cmake/vrpn_listenerConfig-version.cmake
+-- Installing: /home/nicsrobot/Documents/vrpn_ros2/install/vrpn_listener/share/vrpn_listener/package.xml
